@@ -11,7 +11,7 @@ public class Task1 {
 
 }
 
-//Проверка Jenkins
+//Проверка Jenkins -
 //
 //Часть 1. Stream API
 //1. Фильтрация HTTP-статусов
